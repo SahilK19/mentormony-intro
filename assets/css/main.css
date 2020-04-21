@@ -3789,3 +3789,10 @@ input, select, textarea {
 			}
 
 		}
+
+		@media  screen and (max-width: 480px) {
+  .logo img {
+    max-width: 200%;
+  	height: auto;
+  }
+}
